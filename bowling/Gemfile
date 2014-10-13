@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'rspec'
+gem 'guard-rspec', require: false
+
+#直接在sublime底下顯示
+# Install Growl via App Store
+# Install GrowlNotify at http://growl.info/downloads.php
+# gem 'growl'
